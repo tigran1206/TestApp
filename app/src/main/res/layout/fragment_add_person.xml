@@ -46,19 +46,4 @@
         android:text="@string/cancel"
         android:layout_toLeftOf="@id/dialog_add_btn" />
 
-    <!--<TextView-->
-        <!--android:id="@+id/dialog_add_tv"-->
-        <!--style="@style/AppDialogTv"-->
-        <!--android:text="@string/add"-->
-        <!--android:layout_alignParentRight="true"-->
-        <!--android:layout_below="@id/last_name_ipl" />-->
-
-    <!--<TextView-->
-        <!--android:id="@+id/dialog_cancel_tv"-->
-        <!--style="@style/AppDialogTv"-->
-        <!--android:text="@string/cancel"-->
-        <!--android:layout_toLeftOf="@id/dialog_add_tv"-->
-        <!--android:layout_below="@id/last_name_ipl"-->
-        <!--android:layout_marginRight="5dp"/>-->
-
 </RelativeLayout>
